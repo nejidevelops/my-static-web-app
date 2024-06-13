@@ -33,7 +33,7 @@
     "minimist": "^1.2.5",
     "rxjs": "~6.5.3",
     "tslib": "^2.3.0",
-    "zone.js": "~0.13.0"
+    "zone.js": "~0.14.6"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.0.3",
